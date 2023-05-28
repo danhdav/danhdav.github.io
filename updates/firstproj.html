@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="../style.css">
+
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+  <title>Daniel's Site</title>
+</head>
+
+<body class="bg">
+  <div id="intro">
+
+    <h1 class="header">Review: My First Full-stack Project</h1>
+
+    <p>TLDR: I definitely need to plan big project workflows alot more deeper next time.</p>
+    
+    <p>
+      This year I had the opportunity to partipate in a semester-long software-development program for my University's Association for Computing and Machinery chapter.
+      Also known as "ACM Projects", it ultimately gives each group the chance to present their application in front of a large panel of faculty and industry experts, and also hundreds of other attendees.
+    </p>
+
+    <p>
+      I was pleased to have quite a knowledgable group. We ended up using a tech stack known as "MERN" - MongoDB, Express, React, and Node (and also included AWS S3 for storage).
+      This perfectly suited our web application's purpose to deliver a study-oriented video summarizer and quiz generator (based off of the video).
+      I was also tasked with backend development, but really I ended up working some frontend too for the sake of integration.
+    </p>
+
+    <p>
+      I'm going to link the repository and the presentation here for those curious. Yes, some bits of code are messy. Yes, it could've been drastically improved if it weren't for the deadlines.
+    </p>
+
+    <p>
+      I've had two personal roadblocks that I've encountered for backend development.
+      The first one pertains to the YouTube API (which was originally meant to be utilized to scrape the video's transcript) and its unforseen limited functionality.
+      It was only able to (1) fetch the transcript for videos that you personally own, or (2) fetch the transcript of videos from other creators by requesting permission.
+      I ended up having to resort to browsing for a node package that can replace its functionality, to which thankfully a package based off a fork of YouTube-dl did the job. 
+    </p>
+
+    <p>
+      The second problem is about the quiz generation functionality, to which I completely own up to for its last minute obstruction.
+      The original plan was to ideally generate multiple-choice questions and provide answers. The process to achieve consisted of feeding a summary to OpenAI's GPT-3.5 Turbo Model for it to dynamically generate them.
+      However, the main issue with this workflow was GPT's inconsistency with its formatted output. I never really thought out how exactly I would be able to take the questions of the output and display them on the front-end.
+      My thought process basically just resorted to manual parsing as a quick solution. This consequently turned out to be a big mistake because of the inconsistent amount of newline characters and extra words made the process alot more complex than I anticipated.
+      By extra words, GPT has a tendency to respond back to you for its first few sentences (ex. "Sure! Here is the answer to blah blah blah").
+    </p>
+
+  </div>
+</body>
+</html>
