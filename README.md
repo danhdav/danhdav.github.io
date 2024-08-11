@@ -16,4 +16,5 @@ I am currently in the process of attaining my AWS Solutions Architect and CompTI
 - AWS Cloud Practicioner
 - ISC2 Certified in Cybersecurity
 - Google IT Support Professional
-I will also do simulations (Forage) or specific programs by companies for learning about a role(s) as well.
+  
+I also do simulations (Forage) or specific programs by companies for learning about a role(s) as well.
