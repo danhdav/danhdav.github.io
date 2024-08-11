@@ -12,5 +12,8 @@ B.S Computer Science (Exp. May 2026)
 Cloud Computing, AI, Automation, Research
 
 ## Certifications
+I am currently in the process of attaining my AWS Solutions Architect and CompTIA Security+, but I am already certified in the following:
 - AWS Cloud Practicioner
-- In the process of attaining AWS Solutions Architect and CompTIA Security+
+- ISC2 Certified in Cybersecurity
+- Google IT Support Professional
+I will also do simulations (Forage) or specific programs by companies for learning about a role(s) as well.
