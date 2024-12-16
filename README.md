@@ -5,10 +5,10 @@ I have a strong interest in the intersection of cloud, AI, automation, and secur
 ## Work Experience
 Blue Yonder: Intern
 
-September 2024 - Present \\
+September 2024 - Present \
 I'm currently doing auditing and refinements within MongoDB for the DevOps (Tooling Enablement) team. I leverage the Atlas CLI, JSON tools, Python, and Excel frequently.
 
-May 2024 - August 2024 \\
+May 2024 - August 2024 \
 Documented around 3200 APIs (each containing YAML and MOCA command files) for the Warehouse Management System. I automated this process with a Python script for parsing and contextualizing.
 
 ## Education
