@@ -2,6 +2,8 @@
 
 I have a strong interest in the intersection of cloud, AI, automation, and security.
 
+Check out my academic webpage [here](https://danhdav.github.io/academics/) to view my projects, resources, etc.
+
 ## Work Experience
 Blue Yonder: Intern
 
