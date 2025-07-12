@@ -1,6 +1,8 @@
 # About Me
 
-I have a strong interest in the intersection of cloud, AI, automation, and security. Because of my well-rounded expertise, I am keen on breaking into technical consulting and management.
+Technology offers a unique lens for introspection and personal growth. With the rise of AI, models are trained to process information much like the human brain, enabling us to access vast knowledge instantly through simple prompts. This mirrors the importance of remaining open-minded and receptive to new ideas—those who cultivate clarity and openness within themselves are best positioned to learn and adapt in today's world. We are vessels of consciousness for the knowledge and experiences we choose to create.
+
+I strive to remain grounded and self-aware, gaining strength from the challenges I've overcome and the insights I've gained along my journey. I value the balance between solitude and connection; while I enjoy meditation and running, I also appreciate engaging in meaningful conversations with others.
 
 Check out my academic webpage [here](https://danhdav.github.io/academics/) to view my projects and resources.
 
