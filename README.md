@@ -1,8 +1,8 @@
 # About Me
 
-Technology offers a unique lens for introspection and personal growth. With the rise of AI, models are trained to process information much like the human brain, enabling us to access vast knowledge instantly through simple prompts. This mirrors the importance of remaining open-minded and receptive to new ideas—those who cultivate clarity and openness within themselves are best positioned to learn and adapt in today's world. We are vessels of consciousness for the knowledge and experiences we choose to create.
+I'm a firm believer for how technology provides powerful insight on introspection. As AI continues to evolve, we can see parallels between how models behave and how the human mind reflects and learns. This instant access to knowledge through prompt engineering highlights the value of how one can embody this concept from within by keeping the crown open.
 
-I strive to remain grounded and self-aware, gaining strength from the challenges I've overcome and the insights I've gained along my journey. I value the balance between solitude and connection; while I enjoy meditation and running, I also appreciate engaging in meaningful conversations with others.
+Through faith and openness, this is why I strive to remain grounded and self-aware. I realized it's all within me. I've gained enormous strength and insights from the obstacles unconsciously projected in my lifepath. I also like the balance between solitude and connection; while I enjoy meditating and running, I also appreciate engaging in meaningful conversations. 
 
 Check out my academic webpage [here](https://danhdav.github.io/academics/) to view my projects and resources.
 
