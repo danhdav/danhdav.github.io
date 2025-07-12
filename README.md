@@ -7,7 +7,8 @@ Check out my academic webpage [here](https://danhdav.github.io/academics/) to vi
 ## Work Experience
 
 ### Nokia
-**5G RAN Engineering Intern (June 2025 - August 2025)**
+**AI RAN Engineering Intern (June 2025 - August 2025)** \
+Created a Tkinter GUI for 5G call scripts. These scripts would run in the background while the UEs (phones) are accessed remotely. The GUI allows a user to specify call parameters to test, such as anything pertaining to throughput, 4G, using iperf3, etc. There were more than 100 parameters I had to sort out between being user-specified and defaulting them to scenario templates that the user can select. Additionally, during my last month I deployed an Android app for a Nokia-tailored AI chatbot. The backend training and architecture was done by another intern, so I had to simply route the Flask APIs to my Jetpack Compose design using Retrofit.
 
 ### Blue Yonder
 **Part-time Intern (September 2024 - May 2025)** \
