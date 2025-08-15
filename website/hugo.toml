@@ -2,6 +2,12 @@ baseURL = "http://example.org/"
 defaultContentLanguage = "en"
 theme = 'hermit-v2'
 title = 'Daniel Hori Davila'
+
+# Configure file caches for Github deployment
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
   # Subtitle
   homeSubtitle = "Welcome to my webpage!"
