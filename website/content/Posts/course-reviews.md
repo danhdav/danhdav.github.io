@@ -1,7 +1,7 @@
 ---
 title: "Course Reviews"
-date: 2025-08-15T14:58:29-05:00
-draft: true
+date: 2025-05-27T12:01:29-05:00
+draft: false
 toc: false
 images:
 tags: 
