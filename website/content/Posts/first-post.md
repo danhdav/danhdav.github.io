@@ -10,4 +10,4 @@ tags:
 
 I am in the process of integrating my academic webpage and my github pages site onto here. Because I just got the hang of Hugo, it will take quite some time, so your patience is much appreciated. Sorry to any friends or potential job recruiters out there.
 
-In the meantime, you can check out my GitHub and LinkedIn below.
+In the meantime, you can check out my GitHub and LinkedIn in the Homepage.
