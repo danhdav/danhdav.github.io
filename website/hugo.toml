@@ -1,0 +1,31 @@
+baseURL = "http://example.org/"
+defaultContentLanguage = "en"
+theme = 'hermit-v2'
+title = 'Daniel Hori Davila'
+[params]
+  # Subtitle
+  homeSubtitle = "Welcome to my webpage!"
+  homeSubtitlePrinter = true
+  shareSocial = true
+
+  [[params.socialLinks]]
+    name = "github"
+    url = "https://github.com/danhdav"
+  [[params.socialLinks]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/danielhoridavila"
+  [[params.socialLinks]]
+    name = "youtube"
+    url = "https://www.youtube.com/@yourprophetdan"
+
+[menu]
+
+  [[menu.main]]
+    name = "Posts"
+    url = "posts/"
+    weight = 10
+
+  [[menu.main]]
+    name = "About"
+    url = "about/about-me"
+    weight = 20
