@@ -4,7 +4,7 @@ date: 2025-10-06T04:30:56+02:00
 draft: false
 ---
 
-For those who do not know, I am currently spending a couple months in Madrid, Spain attending an exchange program. I get asked quite frequently for places that I have been to or plan on visiting, hence I figured to post my iterinary here anyways. I will update this page with brief reviews and insights afterwards. Feel free to reach out for a meet-up.
+For those who do not know, I am currently spending a couple months in Madrid, Spain attending an exchange program. I get asked quite frequently for my iterinary, so here you go. Reach out if you want to meet up.
 
 ## Completed Trips
 Barcelona, Spain (08/29) \
