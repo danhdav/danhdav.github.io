@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Daniel Hori Davila</title>
-    <link>http://localhost:1313/about/</link>
+    <link>http://example.org/about/</link>
     <description>Recent content in Abouts on Daniel Hori Davila</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 15 Aug 2025 00:43:17 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/about-me/</link>
+      <link>http://example.org/about/about-me/</link>
       <pubDate>Fri, 15 Aug 2025 00:43:17 -0500</pubDate>
-      <guid>http://localhost:1313/about/about-me/</guid>
+      <guid>http://example.org/about/about-me/</guid>
       <description>&lt;p&gt;Check out my skillset and experience &lt;a href=&#34;https://public.tableau.com/views/Resume_17552945729570/Resume?:showVizHome=no&amp;amp;:embed=true&#34;&gt;here&lt;/a&gt;. The text is a bit broken, but I&amp;rsquo;ll fix it when I have time.&lt;/p&gt;</description>
     </item>
   </channel>
