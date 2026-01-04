@@ -1,131 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-	<channel>
-		<title>Posts on Daniel Hori Davila</title>
-		<link>http://localhost:1313/posts/</link>
-		<description>Recent content in Posts on Daniel Hori Davila</description>
-		<generator>Hugo -- 0.142.0</generator>
-		<language>en</language>
-		<lastBuildDate>Mon, 06 Oct 2025 04:30:56 +0200</lastBuildDate>
-		<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-		
-		
-		<item>
-			<title>Europe Fall 2025 Iterinary</title>
-			<link>http://localhost:1313/posts/abroad/</link>
-			<pubDate>Mon, 06 Oct 2025 04:30:56 +0200</pubDate><guid>http://localhost:1313/posts/abroad/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>For those who do not know, I am currently spending a couple months in Madrid, Spain attending an exchange program. I get asked quite frequently for places that I have been to or plan on visiting, hence I figured to post my iterinary here anyways. I will update this page with brief reviews and insights afterwards. Feel free to reach out for a meet-up.</p>
-<h2 id="completed-trips">Completed Trips<a href="#completed-trips" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<p>Barcelona, Spain (08/29) <br>
-Tarragona, Spain (08/31)</p>
-<h2 id="confirmed-bookings">Confirmed Bookings<a href="#confirmed-bookings" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<p>Valencia, Spain (10/10) <br>
-Bilbao, Spain (10/24) <br>
-Donostia-San Sebastian, Spain (10/25)</p>
-<p>Marrakesh, Morocco (11/18)</p>
-<p>Nice, France (11/27) <br>
-Mougins, France (11/28)</p>
-<p>Edinburgh, Scotland (12/4)</p>
-<p>Frankfurt, Germany (12/22) <br>
-Heidelberg, Germany (12/22)</p>
-<h2 id="tentative">Tentative<a href="#tentative" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<p>Toledo, Spain <br>
-Guadelajara, Spain <br>
-Salamanca, Spain <br>
-Granada, Spain</p>
-<p>Essaouira, Morocco  <br>
-Taghazout, Morocco</p>
-<p>Monaco City, Monaco</p>
-<p>Mainz, Germany <br>
-Cologne, Germany <br>
-Dusseldorf, Germany</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Site Integration</title>
-			<link>http://localhost:1313/posts/first-post/</link>
-			<pubDate>Fri, 15 Aug 2025 00:11:59 -0500</pubDate><guid>http://localhost:1313/posts/first-post/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>I am in the process of integrating my academic webpage and my github pages site onto here. Because I just got the hang of Hugo, it will take quite some time, so your patience is much appreciated. Sorry to any friends or potential job recruiters out there.</p>
-<p>In the meantime, you can check out my GitHub and LinkedIn in the Homepage.</p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Course Reviews</title>
-			<link>http://localhost:1313/posts/course-reviews/</link>
-			<pubDate>Tue, 27 May 2025 12:01:29 -0500</pubDate><guid>http://localhost:1313/posts/course-reviews/</guid>
-			<description><![CDATA[&lt;no value&gt;]]></description><content type="text/html" mode="escaped"><![CDATA[<p>I&rsquo;ve had the joy of taking great classes taught by great faculty. These are whom I would rate my overall experience a 4 or a 5 out of 5.</p>
-<h3 id="fall-2022">Fall 2022<a href="#fall-2022" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<ul>
-<li>ECS 1100 - Introduction to Engineering and Computer Science
-Professor Nasreen Hasan</li>
-</ul>
-<h3 id="spring-2023">Spring 2023<a href="#spring-2023" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<ul>
-<li>MUSI 1306 (Understanding Music) with Prof. Katrina Rushing</li>
-<li>EPICS 2200 (Engineering Projects in Community Service) with Prof. Alex Steele</li>
-</ul>
-<h3 id="fall-2023">Fall 2023<a href="#fall-2023" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<ul>
-<li>CS 3305 (Discrete Math II) with Prof. Timothy Farage (no longer offered; merged with Discrete Math I)</li>
-<li>PHYS 2325 (Mechanics) with Prof. Mustapha Ishak-Boushaki</li>
-</ul>
-<h3 id="spring-2024">Spring 2024<a href="#spring-2024" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<ul>
-<li>CS 3345 (Data Structures) with Prof. Bhadrachalam Chitturi</li>
-<li>CS 3377 (Systems Programming with UNIX in C) with Prof. Sridhar Alagar</li>
-<li>ECS 3390 (Professional and Technical Communication) with Prof. Candie McKee-Williams</li>
-<li>GOVT 2306 (Local and State Government) with Prof. Joshua Montgomery</li>
-</ul>
-<h3 id="fall-2024">Fall 2024<a href="#fall-2024" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h3>
-<ul>
-<li>LIT 1301 (Introduction to Literature) with Prof. Peter Ingrao</li>
-<li>CS 4349 (Advanced Algorithm Design and Analysis) with Prof. Parisa Darbari</li>
-</ul>
-<h2 id="spring-2025">Spring 2025<a href="#spring-2025" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
-      stroke-linecap="round" stroke-linejoin="round">
-      <path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path>
-      <line x1="8" y1="12" x2="16" y2="12"></line>
-   </svg></a></h2>
-<ul>
-<li>CS 4347 (Database Systems) with Prof. Pushpa Kumar</li>
-<li>CS 4365 (Artififcal Intelligence) with Prof. Vlad Birsan</li>
-</ul>
-]]></content>
-		</item>
-		
-	</channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Daniel Hori Davila</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Daniel Hori Davila</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 24 Dec 2025 19:38:54 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Europe Fall 2025</title>
+      <link>http://localhost:1313/posts/fall-abroad/</link>
+      <pubDate>Wed, 24 Dec 2025 19:38:54 +0100</pubDate>
+      <guid>http://localhost:1313/posts/fall-abroad/</guid>
+      <description>&lt;p&gt;Here is a collection of places I have visited over the course of living in Europe for five months:&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Place&lt;/th&gt;&#xA;          &lt;th&gt;Description&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Spain&lt;/td&gt;&#xA;          &lt;td&gt;Madrid, Barcelona, Valencia, Bilbao. I also did small day trips around those cities like Tarragona, Donostia-San Sebastian, and Toledo.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Morocco&lt;/td&gt;&#xA;          &lt;td&gt;I did a small tour to Merzouga starting from Marrakesh. There were many stops along Ait Ben Haddou and Ouarzazate. The final day consisted of a day trip to Essouaira.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Côte d&amp;rsquo;Azur&lt;/td&gt;&#xA;          &lt;td&gt;I stayed within Antibes, Éze, and Nice. A day trip to Monaco from Nice for via bus ride was 2 euros.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Scotland&lt;/td&gt;&#xA;          &lt;td&gt;I went to visit family in Edinburgh and Glasgow, and completed a tour around Dunfermline and Stirling, but did not have time for the Highlands.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;West Germany&lt;/td&gt;&#xA;          &lt;td&gt;My trip here started in Heidelberg and went up along Frankfurt, small cities along the Rhine river (Oberwesel, Bacharach), Bonn, Köln, and Düsseldorf.&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;important-notes&#34;&gt;Important Notes&lt;a href=&#34;#important-notes&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;If you are a very laid-back traveler, I recommend you visit the smaller cities in this list. Places like Donostia-San Sebastian and Essouaira I feel like are too underappreciated, whereas I&amp;rsquo;ve literally had the best food of my life there.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Site Integration</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 15 Aug 2025 00:11:59 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;I am in the process of integrating my academic webpage and my github pages site onto here. Because I just got the hang of Hugo, it will take quite some time, so your patience is much appreciated. Sorry to any friends or potential job recruiters out there.&lt;/p&gt;&#xA;&lt;p&gt;In the meantime, you can check out my GitHub and LinkedIn in the Homepage.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Course Reviews</title>
+      <link>http://localhost:1313/posts/course-reviews/</link>
+      <pubDate>Tue, 27 May 2025 12:01:29 -0500</pubDate>
+      <guid>http://localhost:1313/posts/course-reviews/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve had the joy of taking great classes taught by great faculty. These are whom I would rate my overall experience a 4 or a 5 out of 5.&lt;/p&gt;&#xA;&lt;h3 id=&#34;fall-2022&#34;&gt;Fall 2022&lt;a href=&#34;#fall-2022&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ECS 1100 - Introduction to Engineering and Computer Science&#xA;Professor Nasreen Hasan&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;spring-2023&#34;&gt;Spring 2023&lt;a href=&#34;#spring-2023&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MUSI 1306 (Understanding Music) with Prof. Katrina Rushing&lt;/li&gt;&#xA;&lt;li&gt;EPICS 2200 (Engineering Projects in Community Service) with Prof. Alex Steele&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fall-2023&#34;&gt;Fall 2023&lt;a href=&#34;#fall-2023&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CS 3305 (Discrete Math II) with Prof. Timothy Farage (no longer offered; merged with Discrete Math I)&lt;/li&gt;&#xA;&lt;li&gt;PHYS 2325 (Mechanics) with Prof. Mustapha Ishak-Boushaki&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;spring-2024&#34;&gt;Spring 2024&lt;a href=&#34;#spring-2024&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CS 3345 (Data Structures) with Prof. Bhadrachalam Chitturi&lt;/li&gt;&#xA;&lt;li&gt;CS 3377 (Systems Programming with UNIX in C) with Prof. Sridhar Alagar&lt;/li&gt;&#xA;&lt;li&gt;ECS 3390 (Professional and Technical Communication) with Prof. Candie McKee-Williams&lt;/li&gt;&#xA;&lt;li&gt;GOVT 2306 (Local and State Government) with Prof. Joshua Montgomery&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;fall-2024&#34;&gt;Fall 2024&lt;a href=&#34;#fall-2024&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;LIT 1301 (Introduction to Literature) with Prof. Peter Ingrao&lt;/li&gt;&#xA;&lt;li&gt;CS 4349 (Advanced Algorithm Design and Analysis) with Prof. Parisa Darbari&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;spring-2025&#34;&gt;Spring 2025&lt;a href=&#34;#spring-2025&#34; class=&#34;anchor&#34; aria-hidden=&#34;true&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-width=&#34;2&#34;&#xA;      stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34;&gt;&#xA;      &lt;path d=&#34;M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3&#34;&gt;&lt;/path&gt;&#xA;      &lt;line x1=&#34;8&#34; y1=&#34;12&#34; x2=&#34;16&#34; y2=&#34;12&#34;&gt;&lt;/line&gt;&#xA;   &lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;CS 4347 (Database Systems) with Prof. Pushpa Kumar&lt;/li&gt;&#xA;&lt;li&gt;CS 4365 (Artififcal Intelligence) with Prof. Vlad Birsan&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
 </rss>
